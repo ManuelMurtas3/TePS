@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lista xmlns:xsi="http://222.23.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="siti.xsd">
+    <sito IDSito="s001">
+        <nome>Google</nome>
+        <URL>http://www.google.com</URL>
+        <descrizione>Il più famoso motore di ricerca</descrizione>
+        <caegoria>motori di ricerca</caegoria>
+    </sito>
+    <sito IDSito="s002">
+        <nome>La Repubblica</nome>
+        <URL>http://www.larepubblica.it</URL>
+        <descrizione>Versione online del quotidiano</descrizione>
+        <caegoria>news</caegoria>
+    </sito>
+    <sito IDSito="s003">
+        <nome>Wikipedia</nome>
+        <URL>http://it.wikipedia.org</URL>
+        <descrizione>La più grande enciclopedia online</descrizione>
+        <caegoria>motori di ricerca</caegoria>
+    </sito>
+    <sito IDSito="s004">
+        <nome>Corriere della sera</nome>
+        <URL>http://www.corriere.it</URL>
+        <descrizione>Versione online del quotidiano il corriere della sera</descrizione>
+        <caegoria>news</caegoria>
+    </sito>
+    <sito IDSito="s005">
+        <nome>Louvre</nome>
+        <URL>http://www.louvre.fr</URL>
+        <descrizione>Sito del museo di Parigi</descrizione>
+        <caegoria>musei</caegoria>
+    </sito>
+</lista>
